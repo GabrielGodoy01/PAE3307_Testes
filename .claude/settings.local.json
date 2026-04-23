@@ -3,7 +3,8 @@
     "allow": [
       "Bash(pip install *)",
       "Bash(pytest -v)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(behave features/conta.feature)"
     ]
   }
 }
