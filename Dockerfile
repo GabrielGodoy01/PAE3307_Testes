@@ -13,3 +13,4 @@ CMD ["pytest"]
 
 # Para rodar o projeto
     # docker run nome-projeto
+    # docker --name nome-container nome-projeto
