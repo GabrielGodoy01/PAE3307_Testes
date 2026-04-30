@@ -4,7 +4,9 @@
       "Bash(pip install *)",
       "Bash(pytest -v)",
       "Bash(python *)",
-      "Bash(behave features/conta.feature)"
+      "Bash(behave features/conta.feature)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
